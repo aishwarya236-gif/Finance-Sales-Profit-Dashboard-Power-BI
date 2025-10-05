@@ -1,9 +1,9 @@
 # Finance-Sales-Profit-Dashboard-Power-BI
 
-# Financial Sales & Profit Performance Dashboard
+## 1. Financial Sales & Profit Performance Dashboard
 A dynamic, interactive Power BI dashboard built to explore global sales and profitability data—focusing on regional trends, product performance, margin analysis, and data-driven business insights.
 
-# Purpose
+2. Purpose
 An interactive Power BI dashboard designed to track and analyze company sales and profitability across products, regions, and time periods. It provides decision-makers with real-time insights to drive strategic and operational improvements.
 
 # Tech Stack
