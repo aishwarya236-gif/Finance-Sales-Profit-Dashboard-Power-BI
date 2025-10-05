@@ -43,7 +43,7 @@ To create a unified, visually interactive dashboard that enables stakeholders to
 9.  Website Link Integration: Direct access to the company’s or portfolio website for additional insights
 10. Clear All Slicers Button: Instantly resets all applied filters for quick, clean analysis
 
-## Business Impact & Insights
+## 4. Business Impact & Insights
 •	Delivered a centralized performance view for sales and profit tracking
 •	Enabled real-time monitoring of sales trends and profit margins
 •	Simplified analysis with navigation and slicer reset features
