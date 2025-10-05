@@ -53,6 +53,12 @@ To create a unified, visually interactive dashboard that enables stakeholders to
 
 # Screenshots / Demos
 Sales Dashboard Link:
+https://github.com/aishwarya236-gif/Finance-Sales-Profit-Dashboard-Power-BI/blob/main/Finance%20Sales%20Dashboard.PNG
+
+Profit Dashboard Link:
+https://github.com/aishwarya236-gif/Finance-Sales-Profit-Dashboard-Power-BI/blob/main/Finance%20Profit%20Dashboard.PNG
+
+
 
    
 
