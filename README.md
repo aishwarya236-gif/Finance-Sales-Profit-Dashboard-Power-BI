@@ -7,30 +7,30 @@ A dynamic, interactive Power BI dashboard built to explore global sales and prof
 An interactive Power BI dashboard designed to track and analyze company sales and profitability across products, regions, and time periods. It provides decision-makers with real-time insights to drive strategic and operational improvements.
 
 ## Tech Stack
-•	Power BI Desktop – for data visualization and dashboard creation
-•	Power Query (M Language) – for data transformation and cleaning
-•	DAX (Data Analysis Expressions) – for calculated measures and KPIs
-•	Excel / CSV – as the data source
-•	File Format – .pbix for development and .png for dashboard previews.
-•	GitHub – for version control and portfolio showcasing
+•	Power BI Desktop – for data visualization and dashboard creation   
+•	Power Query – for data transformation and cleaning  
+•	DAX (Data Analysis Expressions) – for calculated measures and KPIs  
+•	Excel / CSV – as the data source  
+•	File Format – .pbix for development and .png for dashboard previews.  
+•	GitHub – for version control and portfolio showcasing  
 
 ## Data Source
-•	Sample Data: Power BI’s built-in Financial Sample Dataset (Excel)
--  Fields include: Sales, Profit, Discount, Segment, Country, Product, Date
--	Dataset simulates global financial performance across multiple product categories and markets.
+•	Sample Data: Power BI’s built-in Financial Sample Dataset (Excel)  
+-  Fields include: Sales, Profit, Discount, Segment, Country, Product, Date  
+-	Dataset simulates global financial performance across multiple product categories and markets.  
 
 ## Features
-## 1. Business Problem
-The organization lacked a consolidated view of sales and profitability across products and regions, making it difficult to identify top-performing areas, monitor profit margins, and take timely business decisions.
+## 1. Business Problem  
+The organization lacked a consolidated view of sales and profitability across products and regions, making it difficult to identify top-performing areas, monitor profit margins, and take timely business decisions.  
 
-## 2. Goal of the Dashboard
-To create a unified, visually interactive dashboard that enables stakeholders to:
-• Track Sales and Profit performance over time
-• Identify high-performing country and products
-• Monitor profitability trends and discount impacts
-• Enables smooth navigation between Sales and Profit dashboards
-• Provides web integration for extended data exploration
-• Quickly reset all filters for fresh exploration
+## 2. Goal of the Dashboard  
+To create a unified, visually interactive dashboard that enables stakeholders to:  
+• Track Sales and Profit performance over time  
+• Identify high-performing country and products  
+• Monitor profitability trends and discount impacts  
+• Enables smooth navigation between Sales and Profit dashboards  
+• Provides web integration for extended data exploration  
+• Quickly reset all filters for fresh exploration  
 
 ## 3. Walkthrough of Key Visuals
 1.	KPI Cards: Display total Sales, Profit, Unit Sold and COGS at a glance
@@ -44,12 +44,12 @@ To create a unified, visually interactive dashboard that enables stakeholders to
 10. Clear All Slicers Button: Instantly resets all applied filters for quick, clean analysis
 
 ## 4. Business Impact & Insights
-•	Delivered a centralized performance view for sales and profit tracking
-•	Enabled real-time monitoring of sales trends and profit margins
-•	Simplified analysis with navigation and slicer reset features
-•	Helped management optimize discount strategies and resource allocation
-•	Supported data-driven decision-making, improving profitability and operational efficiency
-•	Provided a scalable and visually engaging financial analytics tool
+•	Delivered a centralized performance view for sales and profit tracking  
+•	Enabled real-time monitoring of sales trends and profit margins  
+•	Simplified analysis with navigation and slicer reset features  
+•	Helped management optimize discount strategies and resource allocation  
+•	Supported data-driven decision-making, improving profitability and operational efficiency  
+•	Provided a scalable and visually engaging financial analytics tool  
 
 ## Screenshots / Demos
 Sales Dashboard:
