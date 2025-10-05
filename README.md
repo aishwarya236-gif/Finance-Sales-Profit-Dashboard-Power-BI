@@ -16,8 +16,8 @@ An interactive Power BI dashboard designed to track and analyze company sales an
 
 ## Data Source
 •	Sample Data: Power BI’s built-in Financial Sample Dataset (Excel)
-o	Fields include: Sales, Profit, Discount, Segment, Country, Product, Date
-o	Dataset simulates global financial performance across multiple product categories and markets.
+-  Fields include: Sales, Profit, Discount, Segment, Country, Product, Date
+-	Dataset simulates global financial performance across multiple product categories and markets.
 
 ## Features
 ## 1. Business Problem
@@ -25,12 +25,12 @@ The organization lacked a consolidated view of sales and profitability across pr
 
 ## 2. Goal of the Dashboard
 To create a unified, visually interactive dashboard that enables stakeholders to:
-•	Track Sales and Profit performance over time
-•	Identify high-performing country and products
-•	Monitor profitability trends and discount impacts
-•	Enables smooth navigation between Sales and Profit dashboards
-•	Provides web integration for extended data exploration
-•	Quickly reset all filters for fresh exploration
+•	Track Sales and Profit performance over time.
+•	Identify high-performing country and products.
+•	Monitor profitability trends and discount impacts.
+•	Enables smooth navigation between Sales and Profit dashboards.
+•	Provides web integration for extended data exploration.
+•	Quickly reset all filters for fresh exploration.
 
 ## 3. Walkthrough of Key Visuals
 1.	KPI Cards: Display total Sales, Profit, Unit Sold and COGS at a glance
