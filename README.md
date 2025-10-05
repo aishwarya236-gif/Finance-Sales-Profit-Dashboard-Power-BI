@@ -52,11 +52,11 @@ To create a unified, visually interactive dashboard that enables stakeholders to
 •	Provided a scalable and visually engaging financial analytics tool  
 
 ## Screenshots / Demos
-Sales Dashboard:
-https://github.com/aishwarya236-gif/Finance-Sales-Profit-Dashboard-Power-BI/blob/main/Finance%20Sales%20Dashboard.PNG
+Sales Dashboard:  
+![Alt text] (https://github.com/aishwarya236-gif/Finance-Sales-Profit-Dashboard-Power-BI/blob/main/Finance%20Sales%20Dashboard.PNG)
 
-Profit Dashboard:
-https://github.com/aishwarya236-gif/Finance-Sales-Profit-Dashboard-Power-BI/blob/main/Finance%20Profit%20Dashboard.PNG
+Profit Dashboard:  
+![Alt text] (https://github.com/aishwarya236-gif/Finance-Sales-Profit-Dashboard-Power-BI/blob/main/Finance%20Profit%20Dashboard.PNG)
 
 
 
