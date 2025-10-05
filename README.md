@@ -25,12 +25,12 @@ The organization lacked a consolidated view of sales and profitability across pr
 
 ## 2. Goal of the Dashboard
 To create a unified, visually interactive dashboard that enables stakeholders to:
-•	Track Sales and Profit performance over time.
-•	Identify high-performing country and products.
-•	Monitor profitability trends and discount impacts.
-•	Enables smooth navigation between Sales and Profit dashboards.
-•	Provides web integration for extended data exploration.
-•	Quickly reset all filters for fresh exploration.
+• Track Sales and Profit performance over time
+• Identify high-performing country and products
+• Monitor profitability trends and discount impacts
+• Enables smooth navigation between Sales and Profit dashboards
+• Provides web integration for extended data exploration
+• Quickly reset all filters for fresh exploration
 
 ## 3. Walkthrough of Key Visuals
 1.	KPI Cards: Display total Sales, Profit, Unit Sold and COGS at a glance
